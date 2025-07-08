@@ -57,7 +57,7 @@ BERTScore F1	0.8559
 
 📦 Model on Hugging Face
 
-🔗 View on Hugging Face
+🔗 View on Hugging Face sharybhatti/finetuned-deepseek-finance
 🛑 Limitations
 
     Not intended for use as a sole decision-maker in financial advice or investments.
