@@ -36,6 +36,7 @@ prompt = "Summarize the Q4 2023 balance sheet for Company XYZ:"
 response = pipe(prompt, max_new_tokens=200)
 print(response[0]["generated_text"])
 
+
 📈 Evaluation Metrics
 Metric	Score
 BLEU	0.0576
@@ -43,6 +44,7 @@ ROUGE-1	0.2303
 ROUGE-2	0.1226
 ROUGE-L	0.1938
 BERTScore F1	0.8559
+
 📚 Model Details
 
     Base Model: deepseek-ai/deepseek-llm-7b
@@ -76,5 +78,3 @@ GitHub • sharry.bhatti1@gmail.com
 
 
 ---
-
-Let me know if you'd like me to generate a preview `README.md` file download or include Hugging Face model car
